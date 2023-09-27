@@ -4,8 +4,8 @@ import time
 import os
 
 # 60*30 , every 30 minutes will update
-frequency = 1800
-url_list_size = 5000
+frequency = 900
+url_list_size = 10000
 
 def timedTask(): 
 	while True:
